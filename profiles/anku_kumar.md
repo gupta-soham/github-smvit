@@ -4,7 +4,7 @@ Anku Kumar
 Patna , Bihar , India 
 
 ### Academics
-Unpadh
+!2 th pass
 
 ### Non-Coding Interests
 Eating maggi
