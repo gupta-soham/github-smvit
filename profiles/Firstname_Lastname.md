@@ -1,15 +1,17 @@
-# Firstname Lastname
+Pravaal Raj Mishra
 
 ### Location
-Patna, Bihar, India
+Gorakhpur, Uttar Pradesh, India
 
 ### Academics
-- Birla Institute of Techology, Mesra
-- Neerja Modi School, Jaipur
+- Sir M Visveswarya Institute of technology
+- Kendriya Vidyalaya no. 1 Jodhpur 
 
 ### Non-Coding Interests
 - Music
 - Sports
+- Gaming
+-Star gazing
 
 
 ### Why Do You Love Coding?
