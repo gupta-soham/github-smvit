@@ -1,17 +1,21 @@
 # Firstname Lastname
 
+Mohd Mursaleen
+
 ### Location
-Patna, Bihar, India
+
+Dehradun, Uttrakhand, India
 
 ### Academics
-- Birla Institute of Techology, Mesra
-- Neerja Modi School, Jaipur
+
+- SMVIT, Bengalore
+- Lovedale Academy , Dehradun
 
 ### Non-Coding Interests
-- Music
-- Sports
 
+- Gaming
+- Football, Chess
 
 ### Why Do You Love Coding?
-Because we keep on learning day-by-day
 
+I’m always curious about how web apps and technology work. I love exploring the intricacies of software development, understanding web tech, and learning about the latest advancements. My curiosity drives me to dive deeper into server-side processes, client-side interactions, and everything in between. 🌐💻🔍
