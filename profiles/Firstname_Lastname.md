@@ -1,7 +1,7 @@
-# Firstname Lastname
+# Hritika Shetty
 
 ### Location
-Patna, Bihar, India
+Bengaluru, Karnataka, India
 
 ### Academics
 - Birla Institute of Techology, Mesra
